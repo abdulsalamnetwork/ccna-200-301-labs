@@ -10,9 +10,9 @@ This is a running log of daily/weekly CCNA labs — not a course, not a copy-pas
 
 | Day | Topic | Key Skills |
 |-----|-------|-----------|
-| [Day 04](./day-04-basic-device-security) | Basic Device Security | Hostnames, enable password vs. enable secret, password encryption, saving configs |
-| [Day 06](./day-06-ethernet-lan-switching) | Ethernet LAN Switching | MAC address table, dynamic learning, ARP process, clearing the MAC table |
-| [Day 08](./day-08-ip-addressing) | IPv4 Addressing | Classless addressing, subnet masks, interface configuration, verifying connectivity |
+| [03](./day-06-ethernet-lan-switching) | Ethernet LAN Switching | MAC address table, dynamic learning, ARP process, clearing the MAC table |
+| [02](./day-08-ip-addressing) | IPv4 Addressing | Classless addressing, subnet masks, interface configuration, verifying connectivity |
+| [01](./basic_device_security/) | Basic Device Security | Hostnames, enable password vs. enable secret, password encryption, saving configs |
 
 *(Updated as new labs are completed.)*
 
@@ -21,13 +21,13 @@ This is a running log of daily/weekly CCNA labs — not a course, not a copy-pas
 ```
 ccna-200-301-labs/
 ├── README.md                          ← you are here
-├── day-04-basic-device-security/
+├── day-01-basic-device-security/
 │   ├── README.md
 │   └── screenshots/
-├── day-06-ethernet-lan-switching/
+├── day-02-ethernet-lan-switching/
 │   ├── README.md
 │   └── screenshots/
-├── day-08-ip-addressing/
+├── day-03-ip-addressing/
 │   ├── README.md
 │   ├── screenshots/
 │   └── ipv4-addresses.pkt             ← optional: Packet Tracer file
@@ -39,17 +39,6 @@ ccna-200-301-labs/
 - **Cisco Packet Tracer** — primary lab environment
 - **Cisco IOS CLI** — device configuration and verification
 - Markdown — lab documentation
-
-## 📖 How Each Lab Is Documented
-
-Every lab folder follows the same format for consistency:
-
-1. **Objective** — what the lab is testing/teaching
-2. **Topology** — devices, IPs, and how they connect
-3. **Configuration Steps** — commands used, in order
-4. **Verification** — `show` commands and expected output
-5. **Observations** — what actually happened, including any errors or unexpected behavior
-6. **Key Takeaways** — the concept the lab reinforced
 
 ## 🧭 Certification Path
 
