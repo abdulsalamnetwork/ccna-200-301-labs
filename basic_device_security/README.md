@@ -16,14 +16,7 @@ This lab is part of my CCNA 200-301 study track, built and simulated in **Cisco 
 | PC3    | PC-PT     | End device      |
 
 **Layout:** R1 connects to SW1, which fans out to PC1, PC2, and PC3.
-![Layout](screenshots/.png)
-```
-        PC1
-         |
-R1 ---- SW1---- PC2
-         |
-        PC3
-```
+![Layout](lab4_cli_screen.png)
 
 ## Objectives
 - Set a hostname on the router
