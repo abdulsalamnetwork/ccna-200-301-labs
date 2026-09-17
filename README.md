@@ -10,9 +10,12 @@ This is a running log of daily/weekly CCNA labs — not a course, not a copy-pas
 
 | Day | Topic | Key Skills |
 |-----|-------|-----------|
+[01](./Standard ACLs (with OSPF)) | Basic Device Security | Hostnames, enable password vs. enable secret, password encryption, saving configs |
 | [02](./day-08-ip-addressing) | IPv4 Addressing | Classless addressing, subnet masks, interface configuration, verifying connectivity |
 | [02](./ethernet_lan_switch) | Ethernet LAN Switching | MAC address table, dynamic learning, ARP process, clearing the MAC table |
 | [01](./basic_device_security/) | Basic Device Security | Hostnames, enable password vs. enable secret, password encryption, saving configs |
+[01](./basic_device_security/) | Basic Device Security | Hostnames, enable password vs. enable secret, password encryption, saving configs |
+
 
 *(Updated as new labs are completed.)*
 

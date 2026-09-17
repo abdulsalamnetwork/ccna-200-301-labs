@@ -1,4 +1,4 @@
-# Day 29 — HSRP Configuration (First Hop Redundancy)
+#HSRP Configuration (First Hop Redundancy)
 
 Part of my CCNA 200-301 lab series. This lab configures HSRPv2 between two routers to provide a redundant default gateway for two PCs, sitting behind a redundantly-meshed switch layer.
 
